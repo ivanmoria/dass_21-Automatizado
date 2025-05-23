@@ -1,4 +1,4 @@
-# dass_21-Automatizado# Questionário DASS-21 com Áudio e Classificação de Resultados
+Questionário DASS-21 com Áudio e Classificação de Resultados
 
 Este projeto implementa um questionário online baseado no instrumento DASS-21 para avaliação dos níveis de **Depressão**, **Ansiedade** e **Estresse**. Ele inclui funcionalidades para navegação entre perguntas, seleção de respostas, reprodução de áudio associado, validação e exibição de resultados com classificação.
 
