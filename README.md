@@ -94,10 +94,10 @@ Com essa automação, profissionais e pesquisadores podem aplicar o DASS-21 de f
 
 ## Licença
 
-Este projeto é aberto para uso, modificação e redistribuição.
+Este projeto está sendo desenvolvido no Doutorado de Ivan Moriá Borges.
 
 ---
 
 ## Contato
 
-Para dúvidas, sugestões ou contribuições, entre em contato.
+Para dúvidas, sugestões ou contribuições, entre em contato pelo e-mail ivanmoriabr@gmail.com
