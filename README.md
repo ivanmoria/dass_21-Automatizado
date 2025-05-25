@@ -13,6 +13,7 @@ Este projeto implementa um questionário online baseado no instrumento DASS-21 p
 - **Cálculo de escores**: Soma os pontos das respostas divididas em subescalas para Depressão, Ansiedade e Estresse.
 - **Classificação dos escores**: Classifica cada subescala em categorias (Normal, Leve, Moderado, Severo, Extremamente Severo).
 - **Exibição dos resultados**: Mostra o nome, idade e resultados finais ao concluir o questionário.
+- Permitir importar/exportar respostas em CSV.
 
 ---
 
@@ -85,9 +86,6 @@ Com essa automação, profissionais e pesquisadores podem aplicar o DASS-21 de f
 
 ## Possíveis melhorias
 
-- Implementar interface gráfica mais amigável.
-- Permitir importar/exportar respostas em CSV.
-- Melhorar acessibilidade e suporte a diferentes dispositivos.
 - Adicionar suporte multilíngue.
 
 ---
